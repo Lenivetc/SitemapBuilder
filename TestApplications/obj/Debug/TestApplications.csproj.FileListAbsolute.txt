@@ -1,0 +1,14 @@
+D:\SitemapBuilder\TestApplications\bin\Debug\TestApplications.exe
+D:\SitemapBuilder\TestApplications\bin\Debug\TestApplications.pdb
+D:\SitemapBuilder\TestApplications\bin\Debug\SitemapBuilder.dll
+D:\SitemapBuilder\TestApplications\bin\Debug\SitemapBuilder.pdb
+D:\SitemapBuilder\TestApplications\obj\Debug\TestApplications.csprojResolveAssemblyReference.cache
+D:\SitemapBuilder\TestApplications\obj\Debug\TestApplications.exe
+D:\SitemapBuilder\TestApplications\obj\Debug\TestApplications.pdb
+h:\Projects\VC\SitemapBuilder\TestApplications\obj\Debug\TestApplications.exe
+h:\Projects\VC\SitemapBuilder\TestApplications\obj\Debug\TestApplications.pdb
+h:\Projects\VC\SitemapBuilder\TestApplications\bin\Debug\TestApplications.exe
+h:\Projects\VC\SitemapBuilder\TestApplications\bin\Debug\TestApplications.pdb
+h:\Projects\VC\SitemapBuilder\TestApplications\bin\Debug\SitemapBuilder.dll
+h:\Projects\VC\SitemapBuilder\TestApplications\bin\Debug\SitemapBuilder.pdb
+h:\Projects\VC\SitemapBuilder\TestApplications\obj\Debug\TestApplications.csprojResolveAssemblyReference.cache

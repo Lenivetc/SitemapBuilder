@@ -1,0 +1,8 @@
+D:\SitemapBuilder\SitemapBuilder\bin\Debug\SitemapBuilder.dll
+D:\SitemapBuilder\SitemapBuilder\bin\Debug\SitemapBuilder.pdb
+D:\SitemapBuilder\SitemapBuilder\obj\Debug\SitemapBuilder.dll
+D:\SitemapBuilder\SitemapBuilder\obj\Debug\SitemapBuilder.pdb
+h:\Projects\VC\SitemapBuilder\SitemapBuilder\bin\Debug\SitemapBuilder.dll
+h:\Projects\VC\SitemapBuilder\SitemapBuilder\bin\Debug\SitemapBuilder.pdb
+h:\Projects\VC\SitemapBuilder\SitemapBuilder\obj\Debug\SitemapBuilder.dll
+h:\Projects\VC\SitemapBuilder\SitemapBuilder\obj\Debug\SitemapBuilder.pdb
